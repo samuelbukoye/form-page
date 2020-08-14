@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image: url(download-60.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 
+}
+
+h1,h2{
+    text-transform: uppercase;
+
+}
+
+h1{
+    padding-bottom: 10px;
+    font-family: 'Limelight', cursive;
+    background-size: 100%;
+    background-image: linear-gradient(45deg,#f3ec78, #af4261);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2{
+    padding-bottom: 10px;
+    color: rgb(208, 211, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+ul{
+    margin-right: 50px;
+    text-align: right;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ul li{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+li a{
+    text-decoration: none;
+}
+
+main{
+    background-color: rgba(125, 148, 150,0.7);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+    min-width: 500;
+}
+
+.caution{
+    padding: 15px;
+    color: rgb(68, 64, 64);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border: 1px solid rgb(79, 118, 175);
+}
+
+form{
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+}
+
+.inputdiv{
+    margin-left: 100px;
+}
+
+input{
+    margin-right: 5px;
+}
+
+.clear{
+    padding: 0;
+    border: none;
+    background-color: rgba(0,0,0,0);
+}
+
+.half{
+    width: 50%;
+}
+
+.smallText{
+    font-size: 0.8em;
+    color: rgb(241, 10, 56);
+    font-family: helvetica;
+}
